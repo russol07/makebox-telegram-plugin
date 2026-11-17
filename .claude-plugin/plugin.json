@@ -1,0 +1,26 @@
+{
+  "name": "makebox-telegram-bot",
+  "version": "0.1.0",
+  "description": "Connect Telegram bots to Claude for safe drafting, rich posts, and publishing.",
+  "author": {
+    "name": "MakeBox AI"
+  },
+  "homepage": "https://tg.makebox.ai/",
+  "keywords": [
+    "telegram",
+    "telegram-bot",
+    "mcp",
+    "publishing",
+    "content",
+    "automation",
+    "tables",
+    "slideshow"
+  ],
+  "displayName": "MakeBox Telegram Bot MCP",
+  "repository": "https://github.com/russol07/makebox-telegram-plugin",
+  "icon": "./assets/brand/icon.png",
+  "documentationUrl": "https://github.com/russol07/makebox-telegram-plugin",
+  "supportUrl": "https://makebox.ai/contact",
+  "privacyPolicyUrl": "https://tg.makebox.ai/landing/privacy.html",
+  "termsOfServiceUrl": "https://tg.makebox.ai/landing/terms.html"
+}
